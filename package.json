@@ -19,7 +19,7 @@
     "react-router-dom": "^7.6.3",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/faisalkhan9898/my-react-dashboard.git"
+    "homepage": "https://faisalkhan9898.github.io/my-react-dashboard/"
   },
   "scripts": {
     "start": "react-scripts start",
